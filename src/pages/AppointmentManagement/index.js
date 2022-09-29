@@ -77,7 +77,7 @@ const AppointmentManagementPage = () => {
                 <Stack className="bg-blue_50 lg:h-[117px] xl:h-[134px] 2xl:h-[151px] 3xl:h-[181px] 3xl:px-[10px] lg:px-[7px] xl:px-[8px] 2xl:px-[9px] rounded-radius45 lg:w-[116px] xl:w-[133px] 2xl:w-[150px] 3xl:w-[180px]">
                   <Img
                     src="images/img_frame81.png"
-                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] rounded-radius50 w-[84%]"
+                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] w-[84%]"
                     alt="FrameEightyOne"
                   />
                 </Stack>
@@ -121,7 +121,7 @@ const AppointmentManagementPage = () => {
                 <Stack className="bg-blue_50 lg:h-[117px] xl:h-[134px] 2xl:h-[151px] 3xl:h-[181px] 3xl:px-[10px] lg:px-[7px] xl:px-[8px] 2xl:px-[9px] rounded-radius45 lg:w-[116px] xl:w-[133px] 2xl:w-[150px] 3xl:w-[180px]">
                   <Img
                     src="images/img_frame81.png"
-                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] rounded-radius50 w-[84%]"
+                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] w-[84%]"
                     alt="FrameEightyOne One"
                   />
                 </Stack>
@@ -165,7 +165,7 @@ const AppointmentManagementPage = () => {
                 <Stack className="bg-blue_50 lg:h-[117px] xl:h-[134px] 2xl:h-[151px] 3xl:h-[181px] 3xl:px-[10px] lg:px-[7px] xl:px-[8px] 2xl:px-[9px] rounded-radius45 lg:w-[116px] xl:w-[133px] 2xl:w-[150px] 3xl:w-[180px]">
                   <Img
                     src="images/img_frame81.png"
-                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] rounded-radius50 w-[84%]"
+                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] w-[84%]"
                     alt="FrameEightyOne Two"
                   />
                 </Stack>
@@ -209,7 +209,7 @@ const AppointmentManagementPage = () => {
                 <Stack className="bg-blue_50 lg:h-[117px] xl:h-[134px] 2xl:h-[151px] 3xl:h-[181px] 3xl:px-[10px] lg:px-[7px] xl:px-[8px] 2xl:px-[9px] rounded-radius45 lg:w-[116px] xl:w-[133px] 2xl:w-[150px] 3xl:w-[180px]">
                   <Img
                     src="images/img_frame81.png"
-                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] rounded-radius50 w-[84%]"
+                    className="absolute bottom-[0] lg:h-[110px] xl:h-[126px] 2xl:h-[142px] 3xl:h-[170px] inset-x-[0] mx-[auto] w-[84%]"
                     alt="FrameEightyOne Three"
                   />
                 </Stack>
